@@ -31,24 +31,12 @@ pip install pygame opencv-python mediapipe
 
 ## Project Setup
 
-1. Clone this repository:
+1. Make sure all game assets are in the project directory.
+
+2. Run :
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd hand-tracking-rocket-game
-   ```
-
-3. Make sure all game assets are in the project directory.
-
-4. Run the Python script:
-
-   ```bash
-   python main.py
+   game.ipynb
    ```
 
 5. Allow access to your webcam when prompted.
